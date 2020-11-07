@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "VDV_Task_06/1.0.0": {
+        "runtime": {
+          "VDV_Task_06.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "VDV_Task_06/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
