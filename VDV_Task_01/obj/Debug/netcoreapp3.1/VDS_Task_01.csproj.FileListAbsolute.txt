@@ -1,0 +1,13 @@
+E:\project\TrainingPractice_01\VDS_Task_01\bin\Debug\netcoreapp3.1\VDS_Task_01.exe
+E:\project\TrainingPractice_01\VDS_Task_01\bin\Debug\netcoreapp3.1\VDS_Task_01.deps.json
+E:\project\TrainingPractice_01\VDS_Task_01\bin\Debug\netcoreapp3.1\VDS_Task_01.runtimeconfig.json
+E:\project\TrainingPractice_01\VDS_Task_01\bin\Debug\netcoreapp3.1\VDS_Task_01.runtimeconfig.dev.json
+E:\project\TrainingPractice_01\VDS_Task_01\bin\Debug\netcoreapp3.1\VDS_Task_01.dll
+E:\project\TrainingPractice_01\VDS_Task_01\bin\Debug\netcoreapp3.1\VDS_Task_01.pdb
+E:\project\TrainingPractice_01\VDS_Task_01\obj\Debug\netcoreapp3.1\VDS_Task_01.csprojAssemblyReference.cache
+E:\project\TrainingPractice_01\VDS_Task_01\obj\Debug\netcoreapp3.1\VDS_Task_01.AssemblyInfoInputs.cache
+E:\project\TrainingPractice_01\VDS_Task_01\obj\Debug\netcoreapp3.1\VDS_Task_01.AssemblyInfo.cs
+E:\project\TrainingPractice_01\VDS_Task_01\obj\Debug\netcoreapp3.1\VDS_Task_01.csproj.CoreCompileInputs.cache
+E:\project\TrainingPractice_01\VDS_Task_01\obj\Debug\netcoreapp3.1\VDS_Task_01.dll
+E:\project\TrainingPractice_01\VDS_Task_01\obj\Debug\netcoreapp3.1\VDS_Task_01.pdb
+E:\project\TrainingPractice_01\VDS_Task_01\obj\Debug\netcoreapp3.1\VDS_Task_01.genruntimeconfig.cache
