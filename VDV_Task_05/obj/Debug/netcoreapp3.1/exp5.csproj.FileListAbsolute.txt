@@ -1,0 +1,13 @@
+E:\project\TrainingPractice_01\exp5\bin\Debug\netcoreapp3.1\exp5.exe
+E:\project\TrainingPractice_01\exp5\bin\Debug\netcoreapp3.1\exp5.deps.json
+E:\project\TrainingPractice_01\exp5\bin\Debug\netcoreapp3.1\exp5.runtimeconfig.json
+E:\project\TrainingPractice_01\exp5\bin\Debug\netcoreapp3.1\exp5.runtimeconfig.dev.json
+E:\project\TrainingPractice_01\exp5\bin\Debug\netcoreapp3.1\exp5.dll
+E:\project\TrainingPractice_01\exp5\bin\Debug\netcoreapp3.1\exp5.pdb
+E:\project\TrainingPractice_01\exp5\obj\Debug\netcoreapp3.1\exp5.csprojAssemblyReference.cache
+E:\project\TrainingPractice_01\exp5\obj\Debug\netcoreapp3.1\exp5.AssemblyInfoInputs.cache
+E:\project\TrainingPractice_01\exp5\obj\Debug\netcoreapp3.1\exp5.AssemblyInfo.cs
+E:\project\TrainingPractice_01\exp5\obj\Debug\netcoreapp3.1\exp5.csproj.CoreCompileInputs.cache
+E:\project\TrainingPractice_01\exp5\obj\Debug\netcoreapp3.1\exp5.dll
+E:\project\TrainingPractice_01\exp5\obj\Debug\netcoreapp3.1\exp5.pdb
+E:\project\TrainingPractice_01\exp5\obj\Debug\netcoreapp3.1\exp5.genruntimeconfig.cache
