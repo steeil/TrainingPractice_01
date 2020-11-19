@@ -1,0 +1,10 @@
+C:\Users\Максим\source\repos\EngiCalc\bin\Debug\EngiCalc.exe.config
+C:\Users\Максим\source\repos\EngiCalc\bin\Debug\EngiCalc.exe
+C:\Users\Максим\source\repos\EngiCalc\bin\Debug\EngiCalc.pdb
+C:\Users\Максим\source\repos\EngiCalc\obj\Debug\EngiCalc.csprojAssemblyReference.cache
+C:\Users\Максим\source\repos\EngiCalc\obj\Debug\EngiCalc.Form1.resources
+C:\Users\Максим\source\repos\EngiCalc\obj\Debug\EngiCalc.Properties.Resources.resources
+C:\Users\Максим\source\repos\EngiCalc\obj\Debug\EngiCalc.csproj.GenerateResource.cache
+C:\Users\Максим\source\repos\EngiCalc\obj\Debug\EngiCalc.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\EngiCalc\obj\Debug\EngiCalc.exe
+C:\Users\Максим\source\repos\EngiCalc\obj\Debug\EngiCalc.pdb
